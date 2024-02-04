@@ -7,7 +7,7 @@ import img5 from './5.jpg'
 let data_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "Builder shop",
     image: img1,
     new_price: 30000,
     category: 'adults',
